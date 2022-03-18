@@ -1,0 +1,14 @@
+C:\Users\enzot\Desktop\POO-108-Heritage\bin\Debug\netcoreapp3.1\app.exe
+C:\Users\enzot\Desktop\POO-108-Heritage\bin\Debug\netcoreapp3.1\app.deps.json
+C:\Users\enzot\Desktop\POO-108-Heritage\bin\Debug\netcoreapp3.1\app.runtimeconfig.json
+C:\Users\enzot\Desktop\POO-108-Heritage\bin\Debug\netcoreapp3.1\app.runtimeconfig.dev.json
+C:\Users\enzot\Desktop\POO-108-Heritage\bin\Debug\netcoreapp3.1\app.dll
+C:\Users\enzot\Desktop\POO-108-Heritage\bin\Debug\netcoreapp3.1\app.pdb
+C:\Users\enzot\Desktop\POO-108-Heritage\obj\Debug\netcoreapp3.1\app.csproj.AssemblyReference.cache
+C:\Users\enzot\Desktop\POO-108-Heritage\obj\Debug\netcoreapp3.1\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzot\Desktop\POO-108-Heritage\obj\Debug\netcoreapp3.1\app.AssemblyInfoInputs.cache
+C:\Users\enzot\Desktop\POO-108-Heritage\obj\Debug\netcoreapp3.1\app.AssemblyInfo.cs
+C:\Users\enzot\Desktop\POO-108-Heritage\obj\Debug\netcoreapp3.1\app.csproj.CoreCompileInputs.cache
+C:\Users\enzot\Desktop\POO-108-Heritage\obj\Debug\netcoreapp3.1\app.dll
+C:\Users\enzot\Desktop\POO-108-Heritage\obj\Debug\netcoreapp3.1\app.pdb
+C:\Users\enzot\Desktop\POO-108-Heritage\obj\Debug\netcoreapp3.1\app.genruntimeconfig.cache
