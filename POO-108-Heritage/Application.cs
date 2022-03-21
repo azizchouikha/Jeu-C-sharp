@@ -7,7 +7,6 @@ public class Application
 
 	public void fonctionPrincipale ()
 	{
-		//DEBUT de votre programme
 		console.println("Quel est votre pseudo ?");
 		string username = Utilisateur.saisirTexte();
 		Player p1 = new Player(username);
@@ -22,10 +21,7 @@ public class Application
 			}
 		} while (p1.isAlive());
 		console.println($"Vous avez vaincu {nbBotsVaincus} avant de succomber");
-		//FIN de votre programme
 	}
-
-	//DECLAREZ VOS FONCTIONS EN DESSOUS DE CETTE LIGNE
 	
 	void fight(Player p1, Bot b1) {
 		console.println("Lancer les dés pour savoir qui attaque en premier");
@@ -54,29 +50,6 @@ public class Application
 			console.println("Vous avez été vaincu par le Bot :(");
 		}
 	}
-	
-	
-
-	
-	
-	/* EXEMPLES DE PROCEDURES ET FONCTIONS :
-	
-		void uneProcedure(int param1, int param2)
-		{
-			Console.WriteLine(param1+param2);
-		{
-		
-		int uneFonction(int param1, int param2)
-		{
-			int resultat = 0;
-			resultat = param1 + param2;
-			return resultat;
-		}
-		
-		
-		*/
-
-	//NE PAS TOUCHER LE CODE EN DESSOUS DE CETTE LIGNE
 }
 
 

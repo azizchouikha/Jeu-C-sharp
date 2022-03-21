@@ -29,9 +29,6 @@ class Player : Fighter
 		if (newWeapon != null) {
 			this.weapon = newWeapon;
 		}
-		// } else {
-		// 	this.weapon = new Weapon("Poings", 1, 90);
-		// }
 	}
 
 	public void chooseNextMove(Bot bot) {
