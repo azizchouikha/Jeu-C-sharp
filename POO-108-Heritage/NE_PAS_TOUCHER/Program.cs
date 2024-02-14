@@ -4,6 +4,7 @@
 	{
 		Application app = new Application ();
 		app.fonctionPrincipale ();
+		app.fonctionPrincipale
 	}
 }
 
